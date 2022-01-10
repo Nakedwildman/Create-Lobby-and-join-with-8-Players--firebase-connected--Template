@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9007316549",
+    "project_id": "flutter-card-game",
+    "storage_bucket": "flutter-card-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9007316549:android:24ee13707f6b3e00c26d2c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_card_game_updated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9007316549-jv92kmj9gg70m0c2jo1hucscrk5pkfco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB01oKhPdFje8wl8Fw9YSoZ1glHKeYrbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9007316549-jv92kmj9gg70m0c2jo1hucscrk5pkfco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
